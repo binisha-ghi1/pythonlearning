@@ -12,5 +12,5 @@ input()  # Wait for user to press Enter to stop
 end_time = time.time()  # Record end time
 elapsed_time = end_time - start_time  # Calculate time difference
 
-print(f"Elapsed Time: {round(elapsed_time, 2)} seconds") 
+print(f"Elapsed Time: {round(elapsed_time, 2)} seconds")
 
